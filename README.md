@@ -1,4 +1,4 @@
-<img src="./Assets images/@PhotoFixerBot_13-28-36_UTC.jpg.png">
+<img src="./Assets images/@PhotoFixerBot_13-28-36_UTC.jpg">
 <br>
 <img src="./Assets images/images.png">
 <div>
