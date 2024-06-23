@@ -8,7 +8,7 @@
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Old Cat**
+   &nbsp;&#10022; Just call me ***VIJAY KUMAR***
 
    &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
 
