@@ -45,7 +45,7 @@
 
 <div>
  <div>
-  <img src="./assets/images/mary.png" align="left">
+  <img src="./Assets images/mary.png" align="left">
   <p align="right">
 
    &nbsp;
