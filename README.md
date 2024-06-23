@@ -8,7 +8,6 @@
 
    &nbsp;
     
- 
   &nbsp;&#10022; Just call me ***VIJAY KUMAR***
   
 
@@ -66,7 +65,7 @@
 
    &nbsp;&#10022; I ussualy use Discord for chatting with friends.
    
-   &nbsp;&#10022; I use Instagram for uploading my drawing content.
+   &nbsp;&#10022; I use Instagram for uploading funny stories 😂 
    
   </p>
  </div>
