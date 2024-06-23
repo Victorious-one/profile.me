@@ -3,7 +3,7 @@
 
 <div>
  <div>
-  <img src="./assets/images/Picsart_24-06-22_21-15-03-581-removebg-preview.png" align="left">
+  <img src="./Assets images/Picsart_24-06-22_21-15-03-581-removebg-preview.png" align="left">
   <p align="right">
 
    &nbsp;
