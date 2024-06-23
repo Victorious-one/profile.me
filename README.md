@@ -1,4 +1,4 @@
-<img src="./assets/images/herobanner.png">
+<img src="./Assets images/herobanner.png">
 <br>
 
 <div>
