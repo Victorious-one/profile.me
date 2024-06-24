@@ -70,10 +70,5 @@
   </p>
  </div>
 </div>
- herf="https://github-stats-alpha.vercel.app/api?username={victorious-one}"
-herf="https://github-stats-alpha.vercel.app/api?username={Victorious-one}&cc=000&tc=fff&ic=fff&bc=000
-
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color"
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Victorious-one?cardType=github&preferLogin=true)](https://git.io/awesome-stats-card)
