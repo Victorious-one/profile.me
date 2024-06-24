@@ -70,3 +70,10 @@
   </p>
  </div>
 </div>
+ https://github-stats-alpha.vercel.app/api?username={victorious-one}
+https://github-stats-alpha.vercel.app/api?username={Victorious-one}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
